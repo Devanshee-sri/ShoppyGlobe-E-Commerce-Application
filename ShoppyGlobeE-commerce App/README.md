@@ -6,7 +6,7 @@ ShoppyGlobe Ecommerce
 
 -- Usage for Local with github link:-
 
-1. git clone https://github.com/Devanshee-sri/
+1. git clone https://github.com/Devanshee-sri/ShoppyGlobeE-commerce App
 2. cd "folderName"
 3. npm install
 4. npm run dev
